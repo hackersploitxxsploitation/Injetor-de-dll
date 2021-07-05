@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625383835 source:c:\users\estan\onedrive\Área de trabalho\injetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
